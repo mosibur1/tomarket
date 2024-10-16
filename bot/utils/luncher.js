@@ -1575,7 +1575,7 @@ function _0x3299() {
     "0x22e",
     "0x1ea",
     "length",
-    "Freddy\x20Bots\x20-\x20",
+    "MRP\x20Tech\x20-\x20",
     "0x1b4",
     "0xe8",
     "0x21c",
