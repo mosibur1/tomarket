@@ -42,7 +42,7 @@ class Logger {
     this._log(
       LogLevel.INFO,
       message
-        .replace(/gramJS/i, "FreddyBot")
+        .replace(/gramJS/i, "MRPTech")
         .replace(/(version\s+)[\d.]+/, "$11.0.0")
     );
   }
